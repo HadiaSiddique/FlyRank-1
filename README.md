@@ -15,9 +15,11 @@ FlyRank-1 is a capstone project currently in early development. Replace this par
 
 ```bash
 
-npm install
+## Getting Started
+Scaffold coming soon — this section will be updated once the initial app structure is in place.
 
-npm run dev
+## Getting Started
+Scaffold coming soon — this section will be updated once the initial app structure is in place.
 
 ```
 
