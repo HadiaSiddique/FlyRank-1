@@ -1,0 +1,21 @@
+---
+description: Core project conventions for this capstone repo
+alwaysApply: true
+---
+
+# Project
+FlyRank-1 — <one-line description>
+
+## Stack
+- Language/framework: 
+- Package manager: npm
+- Testing: 
+
+## Conventions
+- Commits: Conventional Commits (feat, fix, docs, chore, refactor, test)
+- Code style: 
+- Branch naming: feature/*, fix/*
+
+## Notes for the assistant
+- Keep changes scoped to what's asked — no unrelated refactors
+- Explain reasoning before large edits
